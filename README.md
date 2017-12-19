@@ -13,3 +13,5 @@ Instructions:
 + Every time an image is clicked, the images rendered to the page shuffle themselves in a random order.
 
 + When the user's score is reset after an incorrect guess, the game restarts. to user events.
+
+GitHub Pages Deployment:  https://malaxor.github.io/clicky-game/

@@ -1,8 +1,10 @@
 # clicky-game
 
-Clicky Game Overview This is a React memory game. The application structure is broken up into components and component states, and responds to user events.
+Clicky Game Overview 
 
-Instructions
+This is a React memory game. The application structure is broken up into components and component states, and responds to user events.
+
+Instructions:
 
 It renders 12 images of Rick and Morty characters onto the screen. Each image listens for click events.
 
